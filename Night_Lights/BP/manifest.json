@@ -1,0 +1,62 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "a4433311-eff9-4bc4-8e98-181fd432ff00",
+    "version": [
+      5,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      60
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "0388ecc3-6365-4765-8800-1115f79f5370",
+      "version": [
+        5,
+        0,
+        0
+      ]
+    },
+    {
+      "description": "Night Lights Scripts",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "c0471552-e145-4ae5-8061-1a0a636068f9",
+      "version": [
+        5,
+        0,
+        0
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Dust_Kite/Elaikes"
+    ],
+    "license": "GPLv3",
+    "product_type": "addon"
+  },
+  "dependencies": [
+    {
+      "uuid": "797419e9-266a-4d78-800c-eabcb115f0d6",
+      "version": [
+        5,
+        0,
+        0
+      ]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0"
+    }
+  ]
+}
