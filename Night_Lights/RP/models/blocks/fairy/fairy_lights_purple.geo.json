@@ -1,0 +1,36 @@
+{
+	"format_version": "1.21.20",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.fairy_lights_purple",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "main",
+					"pivot": [3.5, 9.75, 5],
+					"cubes": [
+						{"origin": [4.147, 10.87185, 4.5], "size": [3, 3, 3], "pivot": [5.747, 12.47185, 6], "rotation": [0, 0, -22.5], "uv": [0, 10], "mirror": true},
+						{"origin": [-7.147, 10.87185, 4.5], "size": [3, 3, 3], "pivot": [-5.747, 12.47185, 6], "rotation": [0, 0, 22.5], "uv": [0, 10]},
+						{"origin": [-8, 8, 6], "size": [16, 8, 0], "uv": [0, 0]},
+						{"origin": [-1.5, 9, 4.5], "size": [3, 3, 3], "pivot": [0, 10.25, 6], "rotation": [0, 45, 0], "uv": [0, 10]}
+					]
+				}
+			],
+			"item_display_transforms": {
+				"thirdperson_righthand": {
+					"rotation": [0, 0, 0],
+					"translation": [0, 0, -6.5],
+					"scale": [1, 1, 1],
+					"rotation_pivot": [0, 0, 0],
+					"scale_pivot": [0, 0, 0]
+				}
+			}
+		}
+	]
+}

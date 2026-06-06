@@ -1,0 +1,42 @@
+{
+	"format_version": "1.21.20",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.fairy_lights_gray",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "main",
+					"pivot": [3.5, 9.75, 5],
+					"cubes": [
+						{"origin": [-1.5, 8.5, 4.5], "size": [3, 2, 3], "uv": [0, 10], "mirror": true},
+						{"origin": [-1.80074, 10.65656, 5.5], "size": [1, 2, 1], "pivot": [0, 11.58425, 5.58239], "rotation": [0, 0, -22.5], "uv": [0, 7], "mirror": true},
+						{"origin": [0.80074, 10.65656, 5.5], "size": [1, 2, 1], "pivot": [0, 11.58425, 5.58239], "rotation": [0, 0, 22.5], "uv": [0, 7]},
+						{"origin": [-6.59417, 10.66851, 2.64511], "size": [3, 2, 3], "pivot": [0, 11.58425, 5.38239], "rotation": [0, 22.5, 0], "uv": [0, 10], "mirror": true},
+						{"origin": [-6.59417, 12.66851, 2.64511], "size": [1, 2, 1], "pivot": [0, 11.58425, 5.38239], "rotation": [0, 22.5, 0], "uv": [0, 7], "mirror": true},
+						{"origin": [-4.59417, 12.66851, 2.64511], "size": [1, 2, 1], "pivot": [0, 11.58425, 5.38239], "rotation": [0, 22.5, 0], "uv": [0, 7]},
+						{"origin": [5.69417, 11.96851, 2.84511], "size": [1, 2, 1], "pivot": [0, 11.58425, 5.38239], "rotation": [0, -22.5, 0], "uv": [0, 7]},
+						{"origin": [3.69417, 11.96851, 2.84511], "size": [1, 2, 1], "pivot": [0, 11.58425, 5.38239], "rotation": [0, -22.5, 0], "uv": [0, 7], "mirror": true},
+						{"origin": [3.69417, 9.96851, 2.84511], "size": [3, 2, 3], "pivot": [0, 11.58425, 5.38239], "rotation": [0, -22.5, 0], "uv": [0, 10]},
+						{"origin": [-8, 10, 6], "size": [16, 6, 0], "uv": [0, 0], "mirror": true}
+					]
+				}
+			],
+			"item_display_transforms": {
+				"thirdperson_righthand": {
+					"rotation": [0, 0, 0],
+					"translation": [0, 0, -6.5],
+					"scale": [1, 1, 1],
+					"rotation_pivot": [0, 0, 0],
+					"scale_pivot": [0, 0, 0]
+				}
+			}
+		}
+	]
+}
