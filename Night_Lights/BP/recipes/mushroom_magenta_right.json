@@ -1,0 +1,40 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nightlights:mushroom_magenta_right"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "nightlights:mushroom_magenta",
+      "count": 1
+    },
+    "pattern": [
+      " #I",
+      "GNG",
+      "RBR"
+    ],
+    "key": {
+      "#": {
+        "tag": "minecraft:buttons"
+      },
+      "B": {
+        "item": "minecraft:magenta_dye"
+      },
+      "G": {
+        "item": "minecraft:glass"
+      },
+      "I": {
+        "item": "minecraft:red_mushroom"
+      },
+      "N": {
+        "item": "minecraft:glowstone_dust"
+      },
+      "R": {
+        "item": "minecraft:redstone"
+      }
+    }
+  }
+}

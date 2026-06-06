@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "nightlights:fairy_lights_default"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "nightlights:fairy_lights_default",
+      "count": 1
+    },
+    "ingredients": [
+      {
+        "tag": "nightlights:fairy_lights"
+      }
+    ]
+  }
+}

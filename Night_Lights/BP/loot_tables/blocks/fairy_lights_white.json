@@ -1,0 +1,13 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "nightlights:fairy_lights_white"
+        }
+      ]
+    }
+  ]
+}

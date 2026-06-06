@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "nightlights:fairy_lights_black"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "nightlights:fairy_lights_black",
+      "count": 1
+    },
+    "ingredients": [
+      {
+        "tag": "nightlights:fairy_lights"
+      },
+      {
+        "item": "minecraft:black_dye"
+      }
+    ]
+  }
+}

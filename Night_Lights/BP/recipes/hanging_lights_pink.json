@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "nightlights:hanging_lights_pink"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "nightlights:hanging_lights_pink",
+      "count": 1
+    },
+    "ingredients": [
+      {
+        "tag": "nightlights:hanging_lights"
+      },
+      {
+        "item": "minecraft:pink_dye"
+      }
+    ]
+  }
+}
