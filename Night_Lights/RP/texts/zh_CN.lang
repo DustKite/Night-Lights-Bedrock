@@ -82,3 +82,9 @@ tile.nightlights:fairy_lights_purple.name=紫色彩灯
 tile.nightlights:fairy_lights_red.name=红色彩灯
 tile.nightlights:fairy_lights_white.name=白色彩灯
 tile.nightlights:fairy_lights_yellow.name=黄色彩灯
+
+nightlights:itemGroup.name.frog=青蛙夜灯
+nightlights:itemGroup.name.fairy_lights=彩灯
+nightlights:itemGroup.name.mushroom=蘑菇夜灯
+nightlights:itemGroup.name.octopus=章鱼夜灯
+nightlights:itemGroup.name.hanging_lights=挂灯

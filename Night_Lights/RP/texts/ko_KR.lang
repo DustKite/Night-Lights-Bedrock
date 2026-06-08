@@ -77,8 +77,14 @@ tile.nightlights:fairy_lights_light_gray.name=회백색 요정 조명
 tile.nightlights:fairy_lights_lime.name=연두색 요정 조명
 tile.nightlights:fairy_lights_magenta.name=자홍색 요정 조명
 tile.nightlights:fairy_lights_orange.name=주황색 요정 조명
-tile.nightlights:fairy_lights_pink.name=분홍색 요정 조名
+tile.nightlights:fairy_lights_pink.name=분홍색 요정 조명
 tile.nightlights:fairy_lights_purple.name=보라색 요정 조명
 tile.nightlights:fairy_lights_red.name=빨간색 요정 조명
 tile.nightlights:fairy_lights_white.name=하얀색 요정 조명
 tile.nightlights:fairy_lights_yellow.name=노란색 요정 조명
+
+nightlights:itemGroup.name.frog=개구리 야간등
+nightlights:itemGroup.name.fairy_lights=요정 조명
+nightlights:itemGroup.name.mushroom=버섯 야간등
+nightlights:itemGroup.name.octopus=문어 야간등
+nightlights:itemGroup.name.hanging_lights=매달린 조명

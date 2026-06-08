@@ -1,0 +1,134 @@
+{
+   "format_version": "1.21.60",
+   "minecraft:crafting_items_catalog": {
+      "categories": [
+         {
+            "category_name": "construction",
+            "groups": [
+               {
+                  "group_identifier": {
+                     "icon": "nightlights:frog_red",
+                     "name": "nightlights:itemGroup.name.frog"
+                  },
+                  "items": [
+                     "nightlights:frog_black",
+                     "nightlights:frog_blue",
+                     "nightlights:frog_brown",
+                     "nightlights:frog_cyan",
+                     "nightlights:frog_gray",
+                     "nightlights:frog_green",
+                     "nightlights:frog_light_blue",
+                     "nightlights:frog_light_gray",
+                     "nightlights:frog_lime",
+                     "nightlights:frog_magenta",
+                     "nightlights:frog_orange",
+                     "nightlights:frog_pink",
+                     "nightlights:frog_purple",
+                     "nightlights:frog_red",
+                     "nightlights:frog_white",
+                     "nightlights:frog_yellow"
+                  ]
+               },
+               {
+                  "group_identifier": {
+                     "icon": "nightlights:mushroom_red",
+                     "name": "nightlights:itemGroup.name.mushroom"
+                  },
+                  "items": [
+                     "nightlights:mushroom_black",
+                     "nightlights:mushroom_blue",
+                     "nightlights:mushroom_brown",
+                     "nightlights:mushroom_cyan",
+                     "nightlights:mushroom_gray",
+                     "nightlights:mushroom_green",
+                     "nightlights:mushroom_light_blue",
+                     "nightlights:mushroom_light_gray",
+                     "nightlights:mushroom_lime",
+                     "nightlights:mushroom_magenta",
+                     "nightlights:mushroom_orange",
+                     "nightlights:mushroom_pink",
+                     "nightlights:mushroom_purple",
+                     "nightlights:mushroom_red",
+                     "nightlights:mushroom_white",
+                     "nightlights:mushroom_yellow"
+                  ]
+               },
+               {
+                  "group_identifier": {
+                     "icon": "nightlights:octopus_red",
+                     "name": "nightlights:itemGroup.name.octopus"
+                  },
+                  "items": [
+                     "nightlights:octopus_black",
+                     "nightlights:octopus_blue",
+                     "nightlights:octopus_brown",
+                     "nightlights:octopus_cyan",
+                     "nightlights:octopus_gray",
+                     "nightlights:octopus_green",
+                     "nightlights:octopus_light_blue",
+                     "nightlights:octopus_light_gray",
+                     "nightlights:octopus_lime",
+                     "nightlights:octopus_magenta",
+                     "nightlights:octopus_orange",
+                     "nightlights:octopus_pink",
+                     "nightlights:octopus_purple",
+                     "nightlights:octopus_red",
+                     "nightlights:octopus_white",
+                     "nightlights:octopus_yellow"
+                  ]
+               },
+               {
+                  "group_identifier": {
+                     "icon": "nightlights:hanging_lights_red",
+                     "name": "nightlights:itemGroup.name.hanging_lights"
+                  },
+                  "items": [
+                     "nightlights:hanging_lights_black",
+                     "nightlights:hanging_lights_blue",
+                     "nightlights:hanging_lights_brown",
+                     "nightlights:hanging_lights_cyan",
+                     "nightlights:hanging_lights_default",
+                     "nightlights:hanging_lights_gray",
+                     "nightlights:hanging_lights_green",
+                     "nightlights:hanging_lights_light_blue",
+                     "nightlights:hanging_lights_light_gray",
+                     "nightlights:hanging_lights_lime",
+                     "nightlights:hanging_lights_magenta",
+                     "nightlights:hanging_lights_orange",
+                     "nightlights:hanging_lights_pink",
+                     "nightlights:hanging_lights_purple",
+                     "nightlights:hanging_lights_red",
+                     "nightlights:hanging_lights_white",
+                     "nightlights:hanging_lights_yellow"
+                  ]
+               },
+               {
+                  "group_identifier": {
+                     "icon": "nightlights:fairy_lights_red",
+                     "name": "nightlights:itemGroup.name.fairy_lights"
+                  },
+                  "items": [
+                     "nightlights:fairy_lights_black",
+                     "nightlights:fairy_lights_blue",
+                     "nightlights:fairy_lights_brown",
+                     "nightlights:fairy_lights_cyan",
+                     "nightlights:fairy_lights_default",
+                     "nightlights:fairy_lights_gray",
+                     "nightlights:fairy_lights_green",
+                     "nightlights:fairy_lights_light_blue",
+                     "nightlights:fairy_lights_light_gray",
+                     "nightlights:fairy_lights_lime",
+                     "nightlights:fairy_lights_magenta",
+                     "nightlights:fairy_lights_orange",
+                     "nightlights:fairy_lights_pink",
+                     "nightlights:fairy_lights_purple",
+                     "nightlights:fairy_lights_red",
+                     "nightlights:fairy_lights_white",
+                     "nightlights:fairy_lights_yellow"
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+}

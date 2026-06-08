@@ -82,3 +82,9 @@ tile.nightlights:fairy_lights_purple.name=Luces de hadas violetas
 tile.nightlights:fairy_lights_red.name=Luces de hadas rojas
 tile.nightlights:fairy_lights_white.name=Luces de hadas blancas
 tile.nightlights:fairy_lights_yellow.name=Luces de hadas amarillas
+
+nightlights:itemGroup.name.frog=Lámparas de Rana
+nightlights:itemGroup.name.fairy_lights=Luces de Hada
+nightlights:itemGroup.name.mushroom=Lámparas de Hongo
+nightlights:itemGroup.name.octopus=Lámparas de Pulpo
+nightlights:itemGroup.name.hanging_lights=Luces Colgantes

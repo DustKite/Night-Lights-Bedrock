@@ -82,3 +82,9 @@ tile.nightlights:fairy_lights_purple.name=Luzes Lilás de Fada
 tile.nightlights:fairy_lights_red.name=Luzes Vermelhas de Fada
 tile.nightlights:fairy_lights_white.name=Luzes Brancas de Fada
 tile.nightlights:fairy_lights_yellow.name=Luzes Amarelas de Fada
+
+nightlights:itemGroup.name.frog=Luminárias de Sapo
+nightlights:itemGroup.name.fairy_lights=Luzes de Fada
+nightlights:itemGroup.name.mushroom=Luminárias de Cogumelo
+nightlights:itemGroup.name.octopus=Luminárias de Polvo
+nightlights:itemGroup.name.hanging_lights=Luzes Penduradas

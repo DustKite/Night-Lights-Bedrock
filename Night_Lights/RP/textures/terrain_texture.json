@@ -27,8 +27,8 @@
     "fairy_lights_light_gray": {
       "textures": "textures/blocks/fairy_lights_light_gray"
     },
-    "fairy_lights_light_green": {
-      "textures": "textures/blocks/fairy_lights_light_green"
+    "fairy_lights_lime": {
+      "textures": "textures/blocks/fairy_lights_lime"
     },
     "fairy_lights_magenta": {
       "textures": "textures/blocks/fairy_lights_magenta"
@@ -126,8 +126,8 @@
     "hanging_lights_light_gray": {
       "textures": "textures/blocks/hanging_lights_light_gray"
     },
-    "hanging_lights_light_green": {
-      "textures": "textures/blocks/hanging_lights_light_green"
+    "hanging_lights_lime": {
+      "textures": "textures/blocks/hanging_lights_lime"
     },
     "hanging_lights_magenta": {
       "textures": "textures/blocks/hanging_lights_magenta"

@@ -82,3 +82,9 @@ tile.nightlights:fairy_lights_purple.name=Фіолетові чарівні св
 tile.nightlights:fairy_lights_red.name=Червоні чарівні світильники
 tile.nightlights:fairy_lights_white.name=Білі чарівні світильники
 tile.nightlights:fairy_lights_yellow.name=Жовті чарівні світильники
+
+nightlights:itemGroup.name.frog=Жаби нічники
+nightlights:itemGroup.name.fairy_lights=Чарівні світильники
+nightlights:itemGroup.name.mushroom=Грибні нічники
+nightlights:itemGroup.name.octopus=Восьминогі нічники
+nightlights:itemGroup.name.hanging_lights=Підвісні світильники

@@ -82,3 +82,9 @@ tile.nightlights:fairy_lights_purple.name=Purple Fairy Lights
 tile.nightlights:fairy_lights_red.name=Red Fairy Lights
 tile.nightlights:fairy_lights_white.name=White Fairy Lights
 tile.nightlights:fairy_lights_yellow.name=Yellow Fairy Lights
+
+nightlights:itemGroup.name.frog=Frog Lights
+nightlights:itemGroup.name.mushroom=Mushroom Lights
+nightlights:itemGroup.name.octopus=Octopus Lights
+nightlights:itemGroup.name.hanging_lights=Hanging Lights
+nightlights:itemGroup.name.fairy_lights=Fairy Lights

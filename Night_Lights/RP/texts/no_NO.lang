@@ -82,3 +82,9 @@ tile.nightlights:fairy_lights_purple.name=Lilla tråbundne hengelys
 tile.nightlights:fairy_lights_red.name=Røde tråbundne hengelys
 tile.nightlights:fairy_lights_white.name=Hvite tråbundne hengelys
 tile.nightlights:fairy_lights_yellow.name=Gule tråbundne hengelys
+
+nightlights:itemGroup.name.frog=Froskenattlys
+nightlights:itemGroup.name.fairy_lights=Tråbundne hengelys
+nightlights:itemGroup.name.mushroom=Soppenattlys
+nightlights:itemGroup.name.octopus=Blekksprutnattlys
+nightlights:itemGroup.name.hanging_lights=Hengelys
