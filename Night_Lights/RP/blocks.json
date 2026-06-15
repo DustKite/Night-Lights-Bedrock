@@ -1,0 +1,151 @@
+{
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "nightlights:frog_black": {
+        "sound": "glass"
+    },
+    "nightlights:frog_blue": {
+        "sound": "glass"
+    },
+    "nightlights:frog_brown": {
+        "sound": "glass"
+    },
+    "nightlights:frog_cyan": {
+        "sound": "glass"
+    },
+    "nightlights:frog_gray": {
+        "sound": "glass"
+    },
+    "nightlights:frog_green": {
+        "sound": "glass"
+    },
+    "nightlights:frog_light_blue": {
+        "sound": "glass"
+    },
+    "nightlights:frog_light_gray": {
+        "sound": "glass"
+    },
+    "nightlights:frog_lime": {
+        "sound": "glass"
+    },
+    "nightlights:frog_magenta": {
+        "sound": "glass"
+    },
+    "nightlights:frog_orange": {
+        "sound": "glass"
+    },
+    "nightlights:frog_pink": {
+        "sound": "glass"
+    },
+    "nightlights:frog_purple": {
+        "sound": "glass"
+    },
+    "nightlights:frog_red": {
+        "sound": "glass"
+    },
+    "nightlights:frog_white": {
+        "sound": "glass"
+    },
+    "nightlights:frog_yellow": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_black": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_blue": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_brown": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_cyan": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_gray": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_green": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_light_blue": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_light_gray": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_lime": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_magenta": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_orange": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_pink": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_purple": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_red": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_white": {
+        "sound": "glass"
+    },
+    "nightlights:mushroom_yellow": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_black": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_blue": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_brown": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_cyan": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_gray": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_green": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_light_blue": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_light_gray": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_lime": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_magenta": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_orange": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_pink": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_purple": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_red": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_white": {
+        "sound": "glass"
+    },
+    "nightlights:octopus_yellow": {
+        "sound": "glass"
+    }
+}

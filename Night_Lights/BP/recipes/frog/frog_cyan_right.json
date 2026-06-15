@@ -1,0 +1,40 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nightlights:frog_cyan_right"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "nightlights:frog_cyan",
+      "count": 1
+    },
+    "pattern": [
+      " #I",
+      "GNG",
+      "RBR"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:wooden_button"
+      },
+      "B": {
+        "item": "minecraft:cyan_dye"
+      },
+      "G": {
+        "item": "minecraft:glass"
+      },
+      "I": {
+        "item": "minecraft:lily_pad"
+      },
+      "N": {
+        "item": "minecraft:glowstone_dust"
+      },
+      "R": {
+        "item": "minecraft:redstone"
+      }
+    }
+  }
+}

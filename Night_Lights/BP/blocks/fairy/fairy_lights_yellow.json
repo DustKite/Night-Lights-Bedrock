@@ -106,7 +106,9 @@
                         ]
                     }
                 ]
-            }
+            },
+            "tag:nightlights:fairy_lights": {},
+            "tag:nightlights:is_ceiling_light": {}
         }
     }
 }

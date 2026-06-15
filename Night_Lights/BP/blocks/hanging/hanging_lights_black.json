@@ -106,7 +106,9 @@
                         ]
                     }
                 ]
-            }
+            },
+            "tag:nightlights:hanging_lights": {},
+            "tag:nightlights:is_ceiling_light": {}
         }
     }
 }
