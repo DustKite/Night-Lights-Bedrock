@@ -13,7 +13,7 @@
     },
     "ingredients": [
       {
-        "tag": "nightlights:fairy_lights"
+        "item": "nightlights:fairy_lights_default"
       },
       {
         "item": "minecraft:blue_dye"

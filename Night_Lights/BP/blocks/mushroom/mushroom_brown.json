@@ -98,7 +98,7 @@
                     "face_dimming": true,
                     "ambient_occlusion": true,
                     "render_method": "alpha_test",
-                    "texture": "mushroom_brown"
+                    "texture": "night_lights:mushroom_brown"
                 }
             },
             "minecraft:light_emission": 8,
@@ -145,7 +145,10 @@
             },
             "tag:nightlights:is_adjustable": {},
             "tag:nightlights:mushroom": {},
-            "tag:nightlights:is_night_light": {}
+            "tag:nightlights:is_night_light": {},
+            "minecraft:custom_components": [
+                "nightlights:is_adjustable"
+            ]
         }
     }
 }

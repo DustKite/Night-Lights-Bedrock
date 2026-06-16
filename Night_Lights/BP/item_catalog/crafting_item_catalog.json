@@ -7,7 +7,7 @@
             "groups": [
                {
                   "group_identifier": {
-                     "icon": "nightlights:frog_red",
+                     "icon": "nightlights:frog_green",
                      "name": "nightlights:itemGroup.name.frog"
                   },
                   "items": [
@@ -55,7 +55,7 @@
                },
                {
                   "group_identifier": {
-                     "icon": "nightlights:octopus_red",
+                     "icon": "nightlights:octopus_pink",
                      "name": "nightlights:itemGroup.name.octopus"
                   },
                   "items": [
@@ -79,7 +79,7 @@
                },
                {
                   "group_identifier": {
-                     "icon": "nightlights:hanging_lights_red",
+                     "icon": "nightlights:hanging_lights_orange",
                      "name": "nightlights:itemGroup.name.hanging_lights"
                   },
                   "items": [
@@ -104,7 +104,7 @@
                },
                {
                   "group_identifier": {
-                     "icon": "nightlights:fairy_lights_red",
+                     "icon": "nightlights:fairy_lights_yellow",
                      "name": "nightlights:itemGroup.name.fairy_lights"
                   },
                   "items": [

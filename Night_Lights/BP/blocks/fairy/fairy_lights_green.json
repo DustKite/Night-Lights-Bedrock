@@ -108,7 +108,16 @@
                 ]
             },
             "tag:nightlights:fairy_lights": {},
-            "tag:nightlights:is_ceiling_light": {}
+            "tag:nightlights:is_ceiling_light": {},
+            "minecraft:custom_components": [
+                "nightlights:is_needs_support"
+            ],
+            "minecraft:tick": {
+                "interval_range": [
+                    1,
+                    1
+                ]
+            }
         }
     }
 }

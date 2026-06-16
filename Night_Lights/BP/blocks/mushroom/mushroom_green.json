@@ -145,7 +145,10 @@
             },
             "tag:nightlights:is_adjustable": {},
             "tag:nightlights:mushroom": {},
-            "tag:nightlights:is_night_light": {}
+            "tag:nightlights:is_night_light": {},
+            "minecraft:custom_components": [
+                "nightlights:is_adjustable"
+            ]
         }
     }
 }

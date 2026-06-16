@@ -1,5 +1,5 @@
 pack.name=小夜灯
-pack.description=为游戏添加了各种精致可爱的小夜灯，可以点亮你的夜晚。本模组根据原Java版模组小夜灯在遵循LGPLv3协议的情况下进行移植.
+pack.description=为游戏添加了各种精致可爱的小夜灯，可以点亮你的夜晚！本模组根据原Java版模组小夜灯在遵循LGPLv3协议的情况下进行移植.
 tile.nightlights:frog_black.name=黑色青蛙夜灯
 tile.nightlights:frog_blue.name=蓝色青蛙夜灯
 tile.nightlights:frog_brown.name=棕色青蛙夜灯

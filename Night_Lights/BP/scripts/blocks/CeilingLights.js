@@ -7,30 +7,32 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-import { WorldInitializeBeforeEvent, world } from "@minecraft/server";
+import { world } from "@minecraft/server";
 import { EventAPI } from "../lib/EventAPI";
-class NightLights {
+
+class CeilingLights {
     constructor() {
-        this.onPlayerInteract = this.onPlayerInteract.bind(this);
+        this.onTick = this.onTick.bind(this);
     }
-    onPlayerInteract(args) {
-        const block = args.block;
-        const player = args.player;
-        const currentState = block.permutation.getState('nightlights:brightness_level');
-        if (currentState === undefined) return;
-        const nextState = (currentState + 1) % 3;
-        block.setPermutation(block.permutation.withState('nightlights:brightness_level', nextState));
-        player.playSound("random.wood_click", block.location);
+    onTick(args) {
+        const { block } = args;
+        const blockAbove = block.above();
+        if (!blockAbove || blockAbove.typeId === "minecraft:air") {
+            const { x, y, z } = block.location;
+            block.dimension.runCommand(`setblock ${x} ${y} ${z} air destroy`);
+        }
     }
 }
-export class NightLightstRegister {
+
+export class CeilingLightstRegister {
     register(args) {
-        args.blockComponentRegistry.registerCustomComponent('nightlights:is_adjustable', new NightLights());
+        args.blockComponentRegistry.registerCustomComponent('nightlights:is_needs_support', new CeilingLights());
     }
 }
+
 __decorate([
     EventAPI.register(world.beforeEvents.worldInitialize),
     __metadata("design:type", Function),
-    __metadata("design:paramtypes", [WorldInitializeBeforeEvent]),
+    __metadata("design:paramtypes", [Object]),
     __metadata("design:returntype", void 0)
-], NightLightstRegister.prototype, "register", null);
+], CeilingLightstRegister.prototype, "register", null);

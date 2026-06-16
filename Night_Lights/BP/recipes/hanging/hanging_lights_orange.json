@@ -13,7 +13,7 @@
     },
     "ingredients": [
       {
-        "tag": "nightlights:hanging_lights"
+        "item": "nightlights:hanging_lights_default"
       },
       {
         "item": "minecraft:orange_dye"
