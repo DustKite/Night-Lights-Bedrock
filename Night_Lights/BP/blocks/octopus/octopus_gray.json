@@ -27,19 +27,35 @@
             {
                 "condition": "query.block_state('nightlights:brightness_level') == 0",
                 "components": {
-                    "minecraft:light_emission": 8
+                    "minecraft:light_emission": 0
                 }
             },
             {
                 "condition": "query.block_state('nightlights:brightness_level') == 1",
                 "components": {
-                    "minecraft:light_emission": 13
+                    "minecraft:light_emission": 8,
+                    "minecraft:material_instances": {
+                        "*": {
+                            "face_dimming": false,
+                            "ambient_occlusion": true,
+                            "render_method": "alpha_test",
+                            "texture": "octopus_gray"
+                        }
+                    }
                 }
             },
             {
                 "condition": "query.block_state('nightlights:brightness_level') == 2",
                 "components": {
-                    "minecraft:light_emission": 0
+                    "minecraft:light_emission": 13,
+                    "minecraft:material_instances": {
+                        "*": {
+                            "face_dimming": false,
+                            "ambient_occlusion": false,
+                            "render_method": "alpha_test",
+                            "texture": "octopus_gray"
+                        }
+                    }
                 }
             },
             {
